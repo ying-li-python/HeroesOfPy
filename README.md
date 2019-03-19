@@ -59,7 +59,7 @@ Interestingly, despite having significantly lower number of Item purchases, play
 
 <img src="https://raw.githubusercontent.com/ying-li-python/HeroesOfPy/master/Images/most_profitable_summary.png">
 
-Figure 3 results show that overall, a player will pay for at least one Item but no more than five Items when playing the game. This result demonstrates that perhaps three or less Items purchases are sufficient for players to continue playing the game. Interestingly, Table 3 shows that players prefer paying for a more expensive Item to enhance their experiences while playing the game. 
+Figure 3 results show that overall, a player will pay for at least one Item but no more than five Items, demonstrating that perhaps three or less Items purchases are sufficient for players to play the game. Interestingly, Table 3 shows that players prefer paying for a more expensive Item than a cheaper Item to enhance their gaming experience. 
 
 Collectively, these data suggest that each player is willing to spend money on at least one Item, and how motivated they are to pay for an Item depends on their own personal gaming experience, not the cost of the Item.
 
