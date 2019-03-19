@@ -20,6 +20,7 @@ Several metrics were performed to determine:
 - the gender group that is likely to play the game (and purchase an Item) 
 - the age group is likely to play the game (and purchase an Item)
 - top players who spend the most in the game
+- most popular item purchases in the game
 
 ### Results Discussion 
 
