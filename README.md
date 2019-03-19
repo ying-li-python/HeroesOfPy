@@ -9,7 +9,7 @@ Pandas in Jupyter Notebook for data exploration of the data file as a csv (under
 
 ### Results 
 
-Several metrics were performed to determine: 
+Several metrics were performed in Jupyter Notebook using Pandas to determine: 
 - how much profit the game makes by item purchases 
 - the distribution of players by age and gender 
 - the gender group that is likely to play the game (and purchase an Item) 
@@ -19,7 +19,7 @@ Several metrics were performed to determine:
 
 ### Results Discussion 
 
-We can describe three important trends based on the results from using Pandas in Jupyter Notebook.
+We can describe three important trends based on the results (see Jupyter Notebook file).
 
 
 ##### Figure 1. Percentage of Players by Gender 
