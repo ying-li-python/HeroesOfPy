@@ -6,12 +6,7 @@ The purpose of this folder is to gain useful/actionable insights on the purchasi
 
 Pandas in Jupyter Notebook for data exploration of the data file as a csv (under Resources). For an added bonus, matplotlib was also used to visualize the results.
 
-Example: 
 
-###### $ cd HeroesOfPy 
- 
-###### $ jupyter notebook 
-  
 ### Results 
 
 Several metrics were performed to determine: 
