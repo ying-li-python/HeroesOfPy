@@ -5,13 +5,13 @@
 
 To understand gaming trends, we would like to report data analytics using the Pandas module of Python. In this example, we observed the purchasing trends of players who play "Heroes of Pymoli".
 
-### Prerequisites
+## Prerequisites
 - Python 
 - [Pandas](https://pandas.pydata.org/) (Python module) 
 - [Jupyter Notebook](https://jupyter.org/) 
 - Bonus: [matplotlib](https://matplotlib.org/) 
 
-### Getting started 
+## Getting started 
 Download this folder and in this folder, run Jupyter Notebook. This will open a new window on your browser. 
 
 Example:
@@ -21,11 +21,11 @@ cd HereosOfPy
 jupyter notebook 
 ```
 
-### Resources  
+## Resources  
 
 - Purchase data under Resources were kindly provided by UC Berkeley's Data Analytics and Visualization 
 
-### Results 
+## Results 
 
 Several metrics were performed in Jupyter Notebook using Pandas to determine: 
 - how much profit the game makes by item purchases 
@@ -35,7 +35,7 @@ Several metrics were performed in Jupyter Notebook using Pandas to determine:
 - top players who spend the most in the game
 - most popular item purchases in the game
 
-### Results Discussion 
+## Results Discussion 
 
 We can describe three important trends based on the results as observed in our Jupyter Notebook.
 
