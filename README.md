@@ -1,11 +1,29 @@
+
+<img src="https://images.unsplash.com/photo-1548686304-89d188a80029?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" height="80%" width="80%"> 
+
 # HeroesOfPy
 
-The purpose of this folder is to gain useful/actionable insights on the purchasing trends of players who play "Heroes of Pymoli".
+To understand gaming trends, we would like to report data analytics using the Pandas module of Python. In this example, we observed the purchasing trends of players who play "Heroes of Pymoli".
 
-### Method 
+### Prerequisites
+- Python 
+- [Pandas](https://pandas.pydata.org/) (Python module) 
+- [Jupyter Notebook](https://jupyter.org/) 
+- Bonus: [matplotlib](https://matplotlib.org/) 
 
-Pandas in Jupyter Notebook for data exploration of the data file as a csv (under Resources). For an added bonus, matplotlib was also used to visualize the results.
+### Getting started 
+Download this folder and in this folder, run Jupyter Notebook. This will open a new window on your browser. 
 
+Example:
+```
+git clone https://github.com/ying-li-python/HeroesOfPy.git
+cd HereosOfPy 
+jupyter notebook 
+```
+
+### Resources  
+
+- Purchase data under Resources were kindly provided by UC Berkeley's Data Analytics and Visualization 
 
 ### Results 
 
@@ -19,7 +37,7 @@ Several metrics were performed in Jupyter Notebook using Pandas to determine:
 
 ### Results Discussion 
 
-We can describe three important trends based on the results (see Jupyter Notebook file).
+We can describe three important trends based on the results as observed in our Jupyter Notebook.
 
 
 ##### Figure 1. Percentage of Players by Gender 
@@ -63,3 +81,8 @@ Figure 3 results show that overall, a player will pay for at least one Item but 
 
 Collectively, these data suggest that each player is willing to spend money on at least one Item, and how motivated they are to pay for an Item depends on their own personal gaming experience, not the cost of the Item.
 
+#### Author 
+Ying Li 
+
+#### Acknowledgements 
+- UC Berkeley's Data Analytics and Visualization
